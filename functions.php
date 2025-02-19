@@ -506,7 +506,7 @@ function total_price()
             $total += $sub_price;
         }
     }
-    echo "PKR " . $total;
+    echo "VND " . $total;
 }
 
 $countrows = 0;
